@@ -81,3 +81,5 @@ platforms:
     name: "今日头条"
   - id: "weibo"
     name: "微博"
+  - id: "hupu"
+    name: "虎扑"
